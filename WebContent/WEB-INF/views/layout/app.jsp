@@ -31,7 +31,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by makabe ryuhei
+                by makabe　test
             </div>
         </div>
     </body>
